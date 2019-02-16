@@ -7,7 +7,7 @@ In this analysis, we are visualizing the data by prepossessing data, and then an
 While doing this , we learnt a lot of things and went through many resources. 
 Concepts of probability theory and linear algebra that are most relevant to deep learning and machine learning.
 
-## III. DATA
+## I. DATA
 ### Regression
 In this section we will be discusing about the EDA i.e. Exploratory Data Analysis. In Statistics and Data analysis , we have to use an approach named EDA - Exploratory Data Analysis before building or transforming the models or applying any machine learning algorithm. It is an approach for analyzing data sets to describe thier main features through visualization. 
 So we have to select two datasets i.e. for regression and classification but have to do only EDA no machine learning algorithms are involved.
@@ -57,7 +57,7 @@ Input variables:
 16 - y : has the client subscribed a term deposit? (binary: 'yes','no')
 17 - Balance : balance in the bank account (numeric)
 
-##IV. Conclusion
+## II. Conclusion
 From these data analysis , I could learn many aspects of Data Science/ Data Analysis as I was naive for this domain. I learnt how to visualise certain data and learn to compute certain calculation which I never came across. I could learn many python libraries used for calculation or visualization.
 But while doing this , I came across many problems that are:
 I was getting confused between the Key , value pair which was difficult to visualise but I overcomed that difficulty by going through many resources and books.
